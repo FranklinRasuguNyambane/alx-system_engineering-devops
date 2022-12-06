@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "obace=10; ibace=2; $BINARY" | bc
